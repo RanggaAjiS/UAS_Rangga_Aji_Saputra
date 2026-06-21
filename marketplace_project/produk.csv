@@ -1,0 +1,11 @@
+id_produk,nama_produk,harga,stok
+P001,Laptop Asus,7000000,10
+P002,Mouse Logitech,100000,25
+P003,Keyboard Mechanical,250000,15
+P004,Monitor 24 Inch,1500000,8
+P005,Headset Gaming,300000,12
+P006,Flashdisk 32GB,80000,30
+P007,Harddisk External 1TB,900000,7
+P008,Printer Epson,1200000,5
+P009,Smartphone Xiaomi,2500000,6
+P010,Charger Fast Charging,75000,20
